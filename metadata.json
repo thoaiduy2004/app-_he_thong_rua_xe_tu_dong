@@ -1,0 +1,6 @@
+{
+  "name": "AutoWash Pro - AI Bay Telemetry & Control",
+  "description": "Industrial SCADA and machine vision telemetry control console for automated car wash bays with realtime AI LiDAR tracking, vehicle alignment, and actuators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
